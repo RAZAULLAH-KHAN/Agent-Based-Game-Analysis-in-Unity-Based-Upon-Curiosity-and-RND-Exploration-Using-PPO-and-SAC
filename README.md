@@ -46,15 +46,9 @@ This establishes a six-condition experimental matrix in the **Hummingbirds** env
 
 ---
 
-## Project Timeline & Progress
+## Project Timeline
 - **Total Duration:** 8 Months (M1 – M8)
-- **Current Phase:** Month 1 — Hummingbirds Environment Setup & Baseline Configuration
-
-### Milestone Progress
-- [x] **Day 1: Project Foundation** — Unity 2019.3.15f1 project configuration, ML-Agents package manifest (`1.0.2-preview`), and Python dependencies.
-- [ ] **Day 2: 3D Assets & Materials** — Meshes, textures, and rendering shaders for island and flower environments.
-- [ ] **Day 3: Environment Logic & Prefabs** — Nectar replenish mechanics, collision triggers, and island prefabs.
-- [ ] **Day 4: Scenes & Game Loop** — Parallel training scene and interactive evaluation island.
+- **Current Stage:** Environment Setup — Hummingbirds Unity ML-Agents Game Environment (M1 – M2.5)
 
 ---
 
